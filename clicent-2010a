@@ -1,0 +1,5 @@
+  #client.info {
+
+PlayerName={"php,form"}
+PlayerSelectedName={"php,"player.select"}
+php.==
